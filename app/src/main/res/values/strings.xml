@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tp_ecommerce</string>
+    <string name="image_description"></string>
+    <string name="back_button_label">Retour</string>
+    <string name="product_price">Price: %1$.2f</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="return_label">Retour</string>
+    <string name="total_price">Total: %1$.2f</string>
+
+</resources>
